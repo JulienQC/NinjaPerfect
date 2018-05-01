@@ -152,6 +152,21 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 114110021926571422, guid: 0495f6f21ec54814bade2ba1ca4f2f5d,
+        type: 2}
+      propertyPath: direction.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114110021926571422, guid: 0495f6f21ec54814bade2ba1ca4f2f5d,
+        type: 2}
+      propertyPath: speed
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114110021926571422, guid: 0495f6f21ec54814bade2ba1ca4f2f5d,
+        type: 2}
+      propertyPath: smoothing
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0495f6f21ec54814bade2ba1ca4f2f5d, type: 2}
   m_IsPrefabParent: 0
